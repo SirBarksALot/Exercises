@@ -1,6 +1,6 @@
 lista = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 4]
 lista_2 = []
-num = input("Number to check:  ")
+num = int(input("Number to check:  "))
 
 for i in range (0,len(lista)):
     if lista[i] < num:
@@ -8,4 +8,4 @@ for i in range (0,len(lista)):
     else:
         pass
 
-print lista_2
+print (lista_2)
