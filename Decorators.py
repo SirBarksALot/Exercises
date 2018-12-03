@@ -4,8 +4,7 @@ import math
 def decor_function_for_check(func):
     def inside(a, b):
         if a < 0 or b < 0 or (a+b) == 0:
-            print('a < 0 or b < 0 or (a+b) == 0, fail')
-            return
+            return 'a < 0 or b < 0 or (a+b) == 0, fail'
         return func(a, b)
     return inside
 
