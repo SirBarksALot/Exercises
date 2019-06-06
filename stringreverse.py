@@ -1,6 +1,7 @@
 def string_reverse1(string):
     x = list(string.strip())
     output = x[::-1]
+    output = ''.join(output)
 
     return output
 
@@ -25,6 +26,8 @@ def string_reverse3(string):
     x = int((len(string)/2))
     for i in range(x):
         output[i], output[-i-1] = output[-i-1], output[i]
+
+    output = ''.join(output)
 
     return output
 
