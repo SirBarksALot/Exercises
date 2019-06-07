@@ -7,11 +7,48 @@
 # We can trap 2 units of water in the middle gap.
 
 
-bars_list = [3, 0, 0, 2, 0, 4]
+arr = [1, 0]
+water = 0
+arr_cache = []
 
-tupl1 = ('adam')
-tupl2 = ('ewa')
 
-tupl1, tupl2 = tupl2, tupl1
+def trimm_zeros():
+    first = 0
+    last = 0
+    for i in range(len(arr)):
+        if last == 0:
+            # trimm right zeros
+            last = arr.pop()  # pop last item in a list
+        if first == 0:
+            # trimm left zeros
+            first = arr[i]  # take first item in a list
+            if first > 0:
+                del arr[:i + 1]
+        if last != 0 and first != 0:
+            return last, first
+    return 'No blocks > 0, or just one'
 
-print(tupl1, tupl2)
+
+def trimm_right_zeros():
+    for i in range(len(arr)):
+        last = arr.pop()  # pop last item in a list
+        if last > 0:
+            return last
+    return 'no blocks > 0'
+
+
+def trimm_left_zeros(arr):
+    for i in range(len(arr)):
+        first = arr[i]  # take first item in a list
+        if first > 0:
+            del arr[:i+1]
+            return first
+    else:
+        return 'no blocks > 0'
+
+print(trimm_zeros())
+print(arr)
+# print(trimm_right_zeros())
+# print(arr)
+# print(trimm_left_zeros(arr))
+# print(arr)
