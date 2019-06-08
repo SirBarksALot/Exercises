@@ -7,26 +7,7 @@
 # We can trap 2 units of water in the middle gap.
 
 
-arr = [1, 0]
-water = 0
-arr_cache = []
-
-
-def trimm_zeros():
-    first = 0
-    last = 0
-    for i in range(len(arr)):
-        if last == 0:
-            # trimm right zeros
-            last = arr.pop()  # pop last item in a list
-        if first == 0:
-            # trimm left zeros
-            first = arr[i]  # take first item in a list
-            if first > 0:
-                del arr[:i + 1]
-        if last != 0 and first != 0:
-            return last, first
-    return 'No blocks > 0, or just one'
+arr = [2, 0, 0, 7]
 
 
 def trimm_right_zeros():
@@ -34,7 +15,8 @@ def trimm_right_zeros():
         last = arr.pop()  # pop last item in a list
         if last > 0:
             return last
-    return 'no blocks > 0'
+    print('no blocks > 0')
+    return False
 
 
 def trimm_left_zeros(arr):
@@ -43,12 +25,33 @@ def trimm_left_zeros(arr):
         if first > 0:
             del arr[:i+1]
             return first
-    else:
-        return 'no blocks > 0'
 
-print(trimm_zeros())
-print(arr)
-# print(trimm_right_zeros())
-# print(arr)
-# print(trimm_left_zeros(arr))
-# print(arr)
+    return False
+
+
+def trimm_zeros(arr):
+    last = trimm_right_zeros()
+    if last is not False:
+        first = trimm_left_zeros(arr)
+        if first is not False:
+            return first, last
+
+    return False
+
+
+def count_water():
+    outside_set = trimm_zeros(arr)
+    if outside_set is False:
+        return 'No blocks, or just 1'
+    else:
+        if outside_set[1] > outside_set[0]:
+            higher = outside_set[0]
+        else:
+            higher = outside_set[1]
+
+    water = higher * len(arr)
+
+    return water
+
+
+print(count_water())
