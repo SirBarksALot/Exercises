@@ -4,20 +4,25 @@ population = [i for i in range(100)]
 tab = random.choices(population, weights=None, cum_weights=None, k=10)
 print(tab)
 
+pivot_index = len(tab)//2
+pivot = tab[pivot_index]
+print('Pivot = {}'.format(pivot))
 
-def quick_sort_function(tabl):
-    pivot = tabl[-1]
-    print("Pivot:", pivot)
-    i = -1
 
-    for j in range(len(tabl)-1):
-        if tabl[j] < pivot:
+def quicksort_function(tab, pivot_index, i, var):
+    if var == 'left':
+        if tab[i] > tab[pivot_index]:
+            tab[i], tab[pivot_index-1], tab[pivot_index] = tab[pivot_index-1], tab[pivot_index], tab[i]
+        else:
             i += 1
-            tabl[i], tabl[j] = tabl[j], tabl[i]
+    else:
+        if tab[-i-1] < tab[pivot_index]:
+            tab[-i-1], tab[pivot_index+1], tab[pivot_index] = tab[pivot_index+1], tab[pivot_index], tab[-i-1]
+        else:
+            i += 1
 
-    quick_sort_function(tabl)
-
-    return tabl
+    print(tab)
 
 
-print(quick_sort_function(tab))
+quicksort_function(tab, pivot_index, 0, 'left')
+quicksort_function(tab, pivot_index, 0, 'right')
