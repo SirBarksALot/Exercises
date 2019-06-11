@@ -1,7 +1,5 @@
 def string_reverse1(string):
-    x = list(string.strip())
-    output = x[::-1]
-    output = ''.join(output)
+    output = string[::-1]
 
     return output
 
