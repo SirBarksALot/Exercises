@@ -7,7 +7,7 @@
 # We can trap 2 units of water in the middle gap.
 
 
-arr = [2, 0, 0, 7]
+arr = [2, 0, 2, 0]
 
 
 def trimm_right_zeros():
