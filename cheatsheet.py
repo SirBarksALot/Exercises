@@ -1,23 +1,16 @@
-def string_reverse(string):
-    x = list(string.strip())
-    print(x)
-    output = x[::-1]
+# Given an array A of size N.
+# The elements of the array consists of positive integers.
+# You have to find the largest element with minimum frequency.
 
-    return output
+def find_max():
+    maxi = 0
+    for i in A:
+        if i > maxi:
+            maxi = i
 
-
-input_word = 'ameba'
-print(string_reverse(input_word))
-
-
-def find_missing(tab1, tab2):
-    tablo = set(tab1) - set(tab2)
-    print(tablo)
-    for elem in tab1:
-        if elem not in tab2:
-            return elem
-
-    return None
+    return maxi
 
 
-print(find_missing(tab1=[4, 12, 9, 5, 6], tab2=[4, 9, 12, 6]))
+A = [423, 42, 4234235, 564, 74675, 345242, 235, 534535, 52423, 123]
+N = len(A)
+print(find_max())
