@@ -9,21 +9,24 @@ letters_dict = {
     'b': 1,
     'c': 2
 }
-output = 0
 
 
-def count_strings(n_len, letters):
-    global output
-    print(n_len, letters)
-    if n_len > 0:
-        for key, value in letters.items():
-            print(key, value)
-            if letters[key] != 0:
-                count_strings(n_len - 1, letters)
-                letters[key] -= 1
-                if n_len == 1:
-                    output += 1
+def count_strings(z, available_letters):
+    output = 0
+    z -= 1
+    for key, value in available_letters.items():
+        print(key, value)
+        if value != 0:
+            available_letters[key] -= 1
+            if z > 0:
+                output += count_strings(z, available_letters)
+            elif z == 0:
+                output += 1
+            available_letters[key] += 1
+
+    print(available_letters)
+    print(output)
+    return output
 
 
-count_strings(n, letters_dict)
-print(output)
+print(count_strings(n, letters_dict))
