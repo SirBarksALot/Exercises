@@ -3,7 +3,7 @@
 # using ‘a’, ‘b’ and ‘c’
 # with at-most one ‘b’ and two ‘c’s allowed.
 
-n = 3
+n = 4
 letters_dict = {
     'a': -1,
     'b': 1,
