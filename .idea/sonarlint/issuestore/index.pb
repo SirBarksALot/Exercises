@@ -39,3 +39,9 @@ N
 Find triplets with zero sum.py,a\8\a826f07e85155f99f138b51c40a9c1fea254e722
 
 OCount of strings that can be formed using a, b and c under given constraints.py,a\6\a66f14bbbda04f2ae33cb68b65f96112f820f7fc
+?
+Peak element.py,7\2\72f89a632f3f2d7b0cb0516bef73093503993947
+[
++Modular Exponentiation for large numbers.py,a\3\a32e66687b3673121982371f2fafd24120676be0
+N
+Optimal Strategy For A Game.py,7\b\7b7d2bcd600c4abefcd4aab055f2e261b6a46df1

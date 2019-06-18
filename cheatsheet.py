@@ -2,6 +2,7 @@
 # The elements of the array consists of positive integers.
 # You have to find the largest element with minimum frequency.
 
+
 def find_max():
     maxi = 0
     for i in A:
