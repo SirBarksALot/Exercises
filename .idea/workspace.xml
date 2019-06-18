@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4c824c-ba72-4b56-bb1a-c35cbadf94c2" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72f89a632f3f2d7b0cb0516bef73093503993947" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b7d2bcd600c4abefcd4aab055f2e261b6a46df1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a32e66687b3673121982371f2fafd24120676be0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LIFO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optimal Strategy For A Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheatsheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/cheatsheet.py" afterDir="false" />
-    </list>
+    <list default="true" id="dc4c824c-ba72-4b56-bb1a-c35cbadf94c2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,14 +396,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2952381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2239859" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2239859" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -421,7 +411,7 @@
       <window_info anchor="bottom" id="SonarLint" order="8" weight="0.329806" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.34567901" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32829374" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32804233" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
