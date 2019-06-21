@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4c824c-ba72-4b56-bb1a-c35cbadf94c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3rd smallest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list and string action.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,25 +15,25 @@
     <session id="554538321">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="py" value="1567" />
-          <entry key="txt" value="48" />
+          <entry key="py" value="2146" />
+          <entry key="txt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="1567" />
+          <entry key="PLAIN_TEXT" value="74" />
+          <entry key="Python" value="2146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -48,12 +48,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3rd smallest.py">
+        <entry file="file://$PROJECT_DIR$/list and string action.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="240">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
-                <marker date="1561111140640" expanded="true" signature="152:153" ph="..." />
+                <marker date="1561116584891" expanded="true" signature="350:676" ph="..." />
               </folding>
             </state>
           </provider>
@@ -104,6 +104,7 @@
         <option value="$PROJECT_DIR$/Longer string.py" />
         <option value="$PROJECT_DIR$/Longest common string.py" />
         <option value="$PROJECT_DIR$/3rd smallest.py" />
+        <option value="$PROJECT_DIR$/list and string action.py" />
       </list>
     </option>
   </component>
@@ -148,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3rd smallest">
+  <component name="RunManager" selected="Python.list and string action">
     <configuration name="3rd smallest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list and string action" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,7 +246,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\filip.lezuch\PycharmProjects\Exercises\LIFO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list and string action.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,17 +258,17 @@
     <list>
       <item itemvalue="Python.FIFO" />
       <item itemvalue="Python.Linked list" />
-      <item itemvalue="Python.Stack" />
       <item itemvalue="Python.Longest common string" />
       <item itemvalue="Python.3rd smallest" />
+      <item itemvalue="Python.list and string action" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list and string action" />
         <item itemvalue="Python.3rd smallest" />
         <item itemvalue="Python.Longest common string" />
         <item itemvalue="Python.Linked list" />
         <item itemvalue="Python.FIFO" />
-        <item itemvalue="Python.Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561025003894</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="adding third_max">
+      <created>1561111272013</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1561111272013</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -500,7 +508,8 @@
     <MESSAGE value="adding finding numbers" />
     <MESSAGE value="update" />
     <MESSAGE value="adding longest common substring" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding longest common substring" />
+    <MESSAGE value="adding third_max" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding third_max" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/String reoccurence.py">
@@ -631,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheatsheet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Merge sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -697,10 +699,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3rd smallest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="232">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding>
             <marker date="1561111140640" expanded="true" signature="152:153" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheatsheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list and string action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <marker date="1561116584891" expanded="true" signature="350:676" ph="..." />
           </folding>
         </state>
       </provider>
