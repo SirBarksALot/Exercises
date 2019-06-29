@@ -8,7 +8,9 @@ def add_one(arry, i):
         if i != len(arry):
             add_one(arry, i+1)
         else:
-            arry.insert(0, 1)
+            # arry.insert(0, 1)
+            arry.append(0)
+            arry[0] = 1
     print(arry)
 
 
@@ -20,7 +22,9 @@ def add_one_iter():
         else:
             arr[-i - 1] = 0
             if abs(-i - 1) == len(arr):
-                arr.insert(0, 1)
+                # arr.insert(0, 1)
+                arr.append(0)
+                arr[0] = 1
                 break
 
     print(arr)
