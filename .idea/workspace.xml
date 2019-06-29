@@ -1,71 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4c824c-ba72-4b56-bb1a-c35cbadf94c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Universal Value Tree Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k th closest point to origin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b137fbaf-8804-4af0-9a4a-dbab5257cd3e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="554538321">
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="18" />
-          <entry key="py" value="4836" />
-          <entry key="txt" value="83" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="101" />
-          <entry key="Python" value="4836" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.3" value="8" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="9" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Universal Value Tree Problem.py">
+        <entry file="file://$PROJECT_DIR$/anti-diagonal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-              <folding>
-                <marker date="1561809173973" expanded="true" signature="11:16" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="68" />
+            <state relative-caret-position="118">
+              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -86,50 +35,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/String reoccurence.py" />
-        <option value="$PROJECT_DIR$/mergesort.py" />
-        <option value="$PROJECT_DIR$/Subarray with given sum.py" />
-        <option value="$PROJECT_DIR$/Inversion of array.py" />
-        <option value="$PROJECT_DIR$/chessproblem.py" />
-        <option value="$PROJECT_DIR$/Trapping Rain Water.py" />
-        <option value="$PROJECT_DIR$/Selection sort.py" />
-        <option value="$PROJECT_DIR$/Insertion sort.py" />
-        <option value="$PROJECT_DIR$/Merge sort.py" />
-        <option value="$PROJECT_DIR$/quicksort.py" />
-        <option value="$PROJECT_DIR$/Missing number in array.py" />
-        <option value="$PROJECT_DIR$/Last index of 1.py" />
-        <option value="$PROJECT_DIR$/stringreverse.py" />
-        <option value="$PROJECT_DIR$/Largest number formed from array.py" />
-        <option value="$PROJECT_DIR$/Finding the numbers.py" />
-        <option value="$PROJECT_DIR$/Count the triplets.py" />
-        <option value="$PROJECT_DIR$/Find triplets with zero sum.py" />
-        <option value="$PROJECT_DIR$/Peak element.py" />
-        <option value="$PROJECT_DIR$/k-th smallest element in BST.py" />
-        <option value="$PROJECT_DIR$/Modular Exponentiation for large numbers.py" />
-        <option value="$PROJECT_DIR$/Count of strings that can be formed using a, b and c under given constraints.py" />
-        <option value="$PROJECT_DIR$/cheatsheet.py" />
-        <option value="$PROJECT_DIR$/Optimal Strategy For A Game.py" />
-        <option value="$PROJECT_DIR$/Stack.py" />
-        <option value="$PROJECT_DIR$/FIFO.py" />
-        <option value="$PROJECT_DIR$/Linked list.py" />
-        <option value="$PROJECT_DIR$/Longer string.py" />
-        <option value="$PROJECT_DIR$/Longest common string.py" />
-        <option value="$PROJECT_DIR$/3rd smallest.py" />
-        <option value="$PROJECT_DIR$/list and string action.py" />
-        <option value="$PROJECT_DIR$/regural expressions.py" />
-        <option value="$PROJECT_DIR$/Binary tree.py" />
-        <option value="$PROJECT_DIR$/decoding message.py" />
-        <option value="$PROJECT_DIR$/k th closes point to origin.py" />
-        <option value="$PROJECT_DIR$/k th closest point to origin.py" />
-        <option value="$PROJECT_DIR$/Universal Value Tree Problem.py" />
+        <option value="$PROJECT_DIR$/List comprehension.py" />
+        <option value="$PROJECT_DIR$/Password generator.py" />
+        <option value="$PROJECT_DIR$/Your Social Network.py" />
+        <option value="$PROJECT_DIR$/Minimum cost of ropes.py" />
+        <option value="$PROJECT_DIR$/anti-diagonal.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="width" value="1670" />
-    <option name="height" value="950" />
+    <option name="x" value="57" />
+    <option name="width" value="2835" />
+    <option name="height" value="1440" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,8 +69,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/bin/git.exe" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/cmd/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -166,8 +85,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Universal Value Tree Problem">
-    <configuration name="Binary tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.anti-diagonal">
+    <configuration name="List comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List comprehension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Insertion sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Minimum cost of ropes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Insertion sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Minimum cost of ropes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Universal Value Tree Problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Password generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Universal Value Tree Problem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Password generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decoding message" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Your Social Network" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decoding message.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\filip.lezuch\PycharmProjects\Exercises\anti-diagonal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="k th closest point to origin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="anti-diagonal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k th closest point to origin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anti-diagonal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,20 +191,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.Binary tree" />
-      <item itemvalue="Python.Insertion sort" />
-      <item itemvalue="Python.decoding message" />
-      <item itemvalue="Python.k th closest point to origin" />
-      <item itemvalue="Python.Universal Value Tree Problem" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Universal Value Tree Problem" />
-        <item itemvalue="Python.k th closest point to origin" />
-        <item itemvalue="Python.decoding message" />
-        <item itemvalue="Python.Insertion sort" />
-        <item itemvalue="Python.Binary tree" />
+        <item itemvalue="Python.anti-diagonal" />
+        <item itemvalue="Python.Minimum cost of ropes" />
+        <item itemvalue="Python.Your Social Network" />
+        <item itemvalue="Python.Password generator" />
+        <item itemvalue="Python.List comprehension" />
       </list>
     </recent_temporary>
   </component>
@@ -294,501 +206,111 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc4c824c-ba72-4b56-bb1a-c35cbadf94c2" name="Default Changelist" comment="" />
-      <created>1559204305655</created>
+      <changelist id="b137fbaf-8804-4af0-9a4a-dbab5257cd3e" name="Default Changelist" comment="" />
+      <created>1561535754108</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559204305655</updated>
+      <updated>1561535754108</updated>
     </task>
-    <task id="LOCAL-00001" summary="upgraded first occurence exercise">
-      <created>1559212061905</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1559212061905</updated>
-    </task>
-    <task id="LOCAL-00002" summary="added quicksort(WiP) and mergesort (division done, merging left)">
-      <created>1559560129553</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1559560129553</updated>
-    </task>
-    <task id="LOCAL-00003" summary="added quicksort(WiP)">
-      <created>1559567892917</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1559567892917</updated>
-    </task>
-    <task id="LOCAL-00004" summary="done subarray">
-      <created>1559631076251</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1559631076251</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fixed">
-      <created>1559636241188</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1559636241188</updated>
-    </task>
-    <task id="LOCAL-00006" summary="added and improved">
-      <created>1559811188483</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1559811188483</updated>
-    </task>
-    <task id="LOCAL-00007" summary="added and improved">
-      <created>1559818241867</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1559818241867</updated>
-    </task>
-    <task id="LOCAL-00008" summary="added chess knight's problem">
-      <created>1559826102413</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1559826102413</updated>
-    </task>
-    <task id="LOCAL-00009" summary="trapping rain update">
-      <created>1559914419322</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1559914419322</updated>
-    </task>
-    <task id="LOCAL-00010" summary="trapping rain update">
-      <created>1559983701668</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1559983701668</updated>
-    </task>
-    <task id="LOCAL-00011" summary="adding selection sort">
-      <created>1559988387263</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1559988387263</updated>
-    </task>
-    <task id="LOCAL-00012" summary="adding insertion sort">
-      <created>1559990394032</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1559990394032</updated>
-    </task>
-    <task id="LOCAL-00013" summary="adding merge sort">
-      <created>1560104806223</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1560104806223</updated>
-    </task>
-    <task id="LOCAL-00014" summary="trying to do quicksort">
-      <created>1560191691775</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1560191691775</updated>
-    </task>
-    <task id="LOCAL-00015" summary="add missing in a list">
-      <created>1560261592679</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1560261592679</updated>
-    </task>
-    <task id="LOCAL-00016" summary="add missing in a list">
-      <created>1560261735173</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1560261735173</updated>
-    </task>
-    <task id="LOCAL-00017" summary="adding last index of 1">
-      <created>1560262496211</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1560262496211</updated>
-    </task>
-    <task id="LOCAL-00018" summary="update">
-      <created>1560274756902</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1560274756902</updated>
-    </task>
-    <task id="LOCAL-00019" summary="finally seems to work, no speciall cases yet">
-      <created>1560285851494</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1560285851494</updated>
-    </task>
-    <task id="LOCAL-00020" summary="adding finding numbers">
-      <created>1560456328486</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1560456328486</updated>
-    </task>
-    <task id="LOCAL-00021" summary="update">
-      <created>1560493377006</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1560493377006</updated>
-    </task>
-    <task id="LOCAL-00022" summary="update">
-      <created>1560664989658</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1560664989658</updated>
-    </task>
-    <task id="LOCAL-00023" summary="update">
-      <created>1560689099303</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1560689099303</updated>
-    </task>
-    <task id="LOCAL-00024" summary="adding longest common substring">
-      <created>1561025003894</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1561025003894</updated>
-    </task>
-    <task id="LOCAL-00025" summary="adding third_max">
-      <created>1561111272013</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1561111272013</updated>
-    </task>
-    <task id="LOCAL-00026" summary="adding list  and string actions">
-      <created>1561116789317</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1561116789317</updated>
-    </task>
-    <task id="LOCAL-00027" summary="adding list  and string actions">
-      <created>1561379909006</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1561379909006</updated>
-    </task>
-    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17580965" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2434158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4990086" visible="true" weight="0.28794327" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36900368" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="SonarLint" order="8" weight="0.329806" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49966952" weight="0.10921986" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009914" side_tool="true" weight="0.27801418" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32804233" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32841328" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="upgraded first occurence exercise" />
-    <MESSAGE value="added quicksort(WiP) and mergesort (division done, merging left)" />
-    <MESSAGE value="added quicksort(WiP)" />
-    <MESSAGE value="done subarray" />
-    <MESSAGE value="fixed" />
-    <MESSAGE value="added and improved" />
-    <MESSAGE value="added chess knight's problem" />
-    <MESSAGE value="trapping rain update" />
-    <MESSAGE value="adding selection sort" />
-    <MESSAGE value="adding insertion sort" />
-    <MESSAGE value="adding merge sort" />
-    <MESSAGE value="trying to do quicksort" />
-    <MESSAGE value="add missing in a list" />
-    <MESSAGE value="adding last index of 1" />
-    <MESSAGE value="finally seems to work, no speciall cases yet" />
-    <MESSAGE value="adding finding numbers" />
-    <MESSAGE value="update" />
-    <MESSAGE value="adding longest common substring" />
-    <MESSAGE value="adding third_max" />
-    <MESSAGE value="adding list  and string actions" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding list  and string actions" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/String reoccurence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mergesort.py" />
-    <entry file="file://$PROJECT_DIR$/bubblesort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-312">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Subarray with given sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/perfect load balancer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="63" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/check.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chessproblem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/X Total Shapes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trapping Rain Water.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selection sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Missing number in array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121">
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Last index of 1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stringreverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-637">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Largest number formed from array.py" />
-    <entry file="file://$PROJECT_DIR$/Finding the numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String lists - palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quicksort.py" />
-    <entry file="file://$PROJECT_DIR$/Find triplets with zero sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Peak element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modular Exponentiation for large numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hash.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Count of strings that can be formed using a, b and c under given constraints.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Optimal Strategy For A Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LIFO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIFO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linked list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/All Subsets of a Set.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest common string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        <state relative-caret-position="-220">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3rd smallest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List comprehension.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheatsheet.py">
+    <entry file="file://$PROJECT_DIR$/Password generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="294">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list and string action.py">
+    <entry file="file://$PROJECT_DIR$/X Total Shapes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        <state relative-caret-position="300">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fibonacci.py">
+    <entry file="file://$PROJECT_DIR$/Trapping Rain Water.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
+        <state relative-caret-position="-1026" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/regural expressions.py" />
-    <entry file="file://$PROJECT_DIR$/decoding message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/perfect load balancer.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Insertion sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Minimum cost of ropes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="264">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Merge sort.py">
+    <entry file="file://$PROJECT_DIR$/anti-diagonal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        <state relative-caret-position="118">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/k th closest point to origin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <marker date="1561757243716" expanded="true" signature="145:236" ph="..." />
-            <marker date="1561757243716" expanded="true" signature="279:284" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Binary tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Universal Value Tree Problem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-          <folding>
-            <marker date="1561809173973" expanded="true" signature="11:16" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
