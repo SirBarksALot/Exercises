@@ -1,16 +1,18 @@
 import random
 
-population = [i for i in range(100)]
-tab = random.choices(population, weights=None, cum_weights=None, k=100)
+population = [i for i in range(10)]
+tab = random.choices(population, weights=None, cum_weights=None, k=10)
 print(tab)
 
 
 def insertion_sort():
-    for i in range(1, len(tab)):
-        for j in range(i):
-            if tab[i] < tab[j]:
-                # swap
-                tab[i], tab[j] = tab[j], tab[i]
+    for m in range(1, len(tab)):
+        n = m - 1
+        while tab[n+1] < tab[n]:
+            tab[n], tab[n+1] = tab[n+1], tab[n]
+            n -= 1
+            if n < 0:
+                break
 
 
 insertion_sort()
