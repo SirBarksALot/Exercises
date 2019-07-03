@@ -8,12 +8,10 @@
 # inside a hole is minimized.
 
 
-mices = [4, -4, 2]
-holes = [4, 0, 5]
+mices = [-10, -79, -79, 67, 93, -85, -28, -94]
+holes = [-2, 9, 69, 25, -31, 23, 50, 78]
 mices.sort()
 holes.sort()
-# mices = [-4, 2, 4]
-# holes = [0, 4, 5]
 
 
 def find_nearest_hole(mice_pos, hole_pos):
