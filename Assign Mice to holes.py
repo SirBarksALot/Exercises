@@ -10,28 +10,25 @@
 
 mices = [4, -4, 2]
 holes = [4, 0, 5]
+mices.sort()
+holes.sort()
+# mices = [-4, 2, 4]
+# holes = [0, 4, 5]
 
 
-def find_closest_hole(mice_pos, holes_arr):
-    step_count = abs(mice_pos - holes_arr[0])
-    hole_pos = 0
-    for i in range(1, len(holes_arr)):
-        print(step_count, abs(mice_pos-holes_arr[i]))
-        if step_count > abs(mice_pos-holes_arr[i]):
-            hole_pos = i
-            step_count = abs(mice_pos-holes_arr[i])
-
-    return hole_pos, step_count
+def find_nearest_hole(mice_pos, hole_pos):
+    steps = abs(mice_pos - hole_pos)
+    return steps
 
 
-print(find_closes_hole(2, holes))
+def assign_function(mices_arr, holes_arr):
+    output = 0
+    for i in range(len(mices_arr)):
+        minutes = find_nearest_hole(mices_arr[i], holes_arr[i])
+        if minutes > output:
+            output = minutes
 
-#def assign_hole(mic, hol):
- #   for i in range(len(mic)):
- #       for j in range(len(hol)):
- #           if mic[i] == hol[j]:
- #               hol.pop(j)
-  #          elif mic[i] > hol[]
+    return output
 
 
-#assign_hole(mices, holes)
+print(assign_function(mices, holes))
